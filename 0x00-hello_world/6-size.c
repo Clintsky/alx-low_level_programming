@@ -8,7 +8,7 @@
  *
  *   *
  *
- *    * Return: Always 0 (Success)
+     * Return: Always 0 (Success)
  *
  *     */
 
@@ -39,5 +39,6 @@ int main(void)
 											printf("Size of a float: %lu byte(s)\n", (unsigned long)sizeof(f));
 
 												return (0);
+
 
 }
