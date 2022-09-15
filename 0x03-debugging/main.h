@@ -5,6 +5,6 @@
 
 void positive_or_negative(int i);
 
-int larget_number(int a, int b, int c)
+int larget_number(int a, int b, int c);
 
-#endif /* MAIN_H */
+#endif
